@@ -1,5 +1,5 @@
 body {
-    margin: 40px;
+    margin: 100;
     background-color: #fff0ff;
   }
   
@@ -66,6 +66,7 @@ body {
   .box {
     background-color: #592da9;
     color: #fff0ff;
+    text-align: center;
     border-radius: 5px;
     border: 3px solid #592da9;
     padding: 10px;

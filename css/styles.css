@@ -76,7 +76,10 @@ body {
     background-color: #a37bed;
   }
 
-  
+  .sidebar {
+    background-color: #f7cbff;
+    color: #444;
+  }
   
   .sidebar2 {
     background-color: #f7cbff;
